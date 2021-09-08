@@ -9,18 +9,19 @@ O dt money é uma projeto desenvolvido em React durante o Ignite, bootcamp da Ro
 
 ### Tecnologias
 
-React
-TypeScript
-styled somponents
-MirageJS
-Axios
+React<br/>
+TypeScript<br/>
+styled somponents<br/>
+MirageJS<br/>
+Axios<br/>
 Polished
 
 # Instalação e uso
 
 ### Abra um terminal e copie este repositório com o comando
 git clone https://github.com/gregisb/dt-money.git
-### ou use a opção de download.
+<br/>
+ou use a opção de download.
 
 ### Entre na pasta web com 
 cd dtmoney
